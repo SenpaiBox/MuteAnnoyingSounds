@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: MuteAnnoyingSounds
+## Version: 1.0.3
+## Notes: Mutes annoying in game sounds
+## DefaultState: Enabled
+## Author: EzSuite
+
+MuteSoundFile.lua
