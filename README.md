@@ -2,7 +2,7 @@
 Mute annoying in-game sounds
 This is a simple addon that mutes annoying in-game sounds such as toys, mounts, footsteps, and many more
 
-**There are some noticeable sounds that you may not want muted!
+**There are some noticeable sounds that you may not want muted!**
 * Friend joins game
 * Level Up
 * Ready Check and Dungeon Queue
